@@ -63,17 +63,6 @@ public class Triangulo extends JPanel {
             miForm.add(this);
 	        
 	}
-	//método para calcular el área
-	public double CalculaArea() {
-	    //Completar este método
-	    return(0);
-	    
-	}
-	//metodo para obtener el perímetro
-	public double Perimetro(){
-	    //Completar este método
-		return(0);
-	}
 	//Método main
 	public static void main(String args[]) {
 		Triangulo a=new Triangulo(new int[] {0,0,400}, new int[] {0,400,400});
