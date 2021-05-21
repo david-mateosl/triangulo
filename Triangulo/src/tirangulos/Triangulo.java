@@ -21,7 +21,7 @@ public class Triangulo extends JPanel {
     int yPoly[]; //vector de coordenadas Y
     Color Fondo; //Color de fondo del polígono
     Color Linea; //Color de línea
-    
+    int holabuenas;
     //Constructor por parámetro para construir un triángulo dadas
     //las 3 coordenadas X y las 3 coordenadas Y
     public Triangulo(int x[], int y[]) {
